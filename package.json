@@ -1,0 +1,13 @@
+{
+  "name": "tutothreejs",
+  "scripts":{
+    "dev": "vite"
+  },
+  "devDependencies": {
+    "vite": "^5.0.4"
+  },
+  "dependencies": {
+    "gltfloader": "github:codeurdenuit/GLTFLoader",
+    "three": "^0.158.0"
+  }
+}
